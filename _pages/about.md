@@ -30,7 +30,7 @@ I earned my M.Sc. in Earth and Environmental Sciences from the University of Bri
 ---
 
 # Academic Activities
-{% for post in site.talks limit:5 %}
+{% for post in site.talks reversed limit:5 %}
 - [{{ post.title }}]({{ post.url }}){% if post.venue %}, {{ post.venue }}{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
 {% endfor %}
 [View all academic activities](/talks/)
@@ -38,7 +38,7 @@ I earned my M.Sc. in Earth and Environmental Sciences from the University of Bri
 ---
 
 # Blog Posts
-{% for post in site.posts limit:5 %}
+{% for post in site.posts reversed limit:5 %}
 - [{{ post.title }}]({{ post.url }})  
   {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
