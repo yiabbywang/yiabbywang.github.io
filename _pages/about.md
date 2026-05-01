@@ -39,6 +39,7 @@ I earned my M.Sc. in Environmental Sciences from the University of British Colum
 ---
 
 # Blog Posts
+A collection of random thoughts, life updates, travel and activities, and reflections after finishing books. These posts are personal and informal, and usually have nothing to do with academic research :)
 {% assign sorted_posts = site.posts | sort: "date" | reverse %}
 {% for post in sorted_posts limit:5 %}
 - [{{ post.title }}]({{ post.url }})  
