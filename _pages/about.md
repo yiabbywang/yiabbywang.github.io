@@ -30,8 +30,8 @@ I earned my M.Sc. in Earth and Environmental Sciences from the University of Bri
 ---
 
 # Academic Activities
-{% for post in site.talks reversed limit:5 %}
-- [{{ post.title }}]({{ post.url }}){% if post.venue %}, {{ post.venue }}{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+{% for post in site.talks reversed limit:2 %}
+- **{{ post.type }}**: [{{ post.title }}]({{ post.url }}){% if post.venue %}, {{ post.venue }}{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
 {% endfor %}
 [View all academic activities](/talks/)
 
