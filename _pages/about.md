@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Bio
 I am a postdoctoral researcher at the University of Waterloo. My research focuses on land-atmosphere interactions and carbon-water coupling. My work aims to improve the understanding and estimation of water, energy, and carbon exchanges between terrestrial ecosystems and the atmosphere. Currently, I am working on peatland hydrology and carbon dynamics, with a particular interest in how peatland ecosystems respond to environmental and climate change.
 
 I earned my M.Sc. in Earth and Environmental Sciences from the University of British Columbia, Okanagan, in 2018. My master’s research investigated the responses of forest carbon-water coupling to juvenile thinning at both the leaf and individual tree scales in a 16-year-old natural *Pinus contorta* stand. I completed my Ph.D. in Geography (Water) at the University of Waterloo in 2025. My doctoral research focused on the role of microtopography and ground cover in evapotranspiration partitioning within high-elevation wetlands in the Canadian Rocky Mountains.
