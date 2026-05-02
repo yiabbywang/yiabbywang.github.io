@@ -1,5 +1,5 @@
 ---
-title: "Book Reflections | Notorious RBG by Shana Knizhnik and Irin Carmon"
+title: "Book Reflections: Notorious RBG by Shana Knizhnik and Irin Carmon"
 date: 2025-08-25
 categories:
   - Books
