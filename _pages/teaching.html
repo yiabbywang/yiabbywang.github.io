@@ -22,7 +22,7 @@ author_profile: true
 # Academic Service
 
 {% for post in sorted_service %}
-  {% if post.type == "Academic Service" or post.type == "Conference Service" %}
+  {% if post.type == "Academic Service" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
