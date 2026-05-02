@@ -10,7 +10,7 @@ tags:
   - GitHub
 ---
 
-Today I officially moved my personal website from UBC Blogs (https://blogs.ubc.ca/yiwang28/) to GitHub Pages. I also moved my book reflections written since December 2024 to this new website, while earlier writings will remain available on the old site.
+Today I officially moved my personal website from UBC Blogs ([old website](https://blogs.ubc.ca/yiwang28/)) to GitHub Pages. I also moved my book reflections written since December 2024 to this new website, while earlier writings will remain available on the old site.
 
 <br>
 
