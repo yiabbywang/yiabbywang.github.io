@@ -14,7 +14,7 @@ Education
 * M.S. in Environmental Sciences, University of British Columbia (Okanagan), 2018
 * B.S. in Environmental Sciences, Xiamen University, 2015
 
-Teaching experience
+Teaching Experience
 ======
 * Fall 2023: Teaching Assistant
   * University of Waterloo
