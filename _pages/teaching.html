@@ -1,12 +1,48 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Service and Leadership"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign sorted_service = site.teaching | sort: "date" | reverse %}
+
+# Leadership
+
+{% for post in sorted_service %}
+  {% if post.type == "Leadership" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+---
+
+# Student Service
+
+{% for post in sorted_service %}
+  {% if post.type == "Student Service" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+---
+
+# Academic Service
+
+{% for post in sorted_service %}
+  {% if post.type == "Academic Service" or post.type == "Conference Service" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+---
+
+# Community Engagement
+
+{% for post in sorted_service %}
+  {% if post.type == "Community Service" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
