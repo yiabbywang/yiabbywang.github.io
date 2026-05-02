@@ -10,7 +10,7 @@ var addressPoints = [
     -107.991707
   ],
   [
-    "Rodents play an important role during Spartina alterniflora invading the mangrove ecosystem<br />Sixth National Mangrove Forests Seminar; Haikou, China",
+    "Rodents Play An Important Role During Spartina Alterniflora Invading The Mangrove Ecosystem<br />Sixth National Mangrove Forests Seminar; Haikou, China",
     20.0462328,
     110.1956502
   ],
