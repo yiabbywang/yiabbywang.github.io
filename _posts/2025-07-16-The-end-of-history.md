@@ -1,5 +1,5 @@
 ---
-title: "Book Reflections | The End of History and the Last Man by Francis Fukuyama"
+title: "Book Reflections: The End of History and the Last Man by Francis Fukuyama"
 date: 2025-07-16
 categories:
   - Books
