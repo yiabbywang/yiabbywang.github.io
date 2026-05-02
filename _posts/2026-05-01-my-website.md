@@ -14,15 +14,7 @@ Today I officially moved my personal website from UBC Blogs (https://blogs.ubc.c
 
 <br>
 
-My old personal site was created when I had just started my master’s degree. One of our courses required us to build a personal academic website, and that assignment unexpectedly became something I continued to maintain for many years afterward.
-
-<br>
-
-Over time, the website gradually turned into a mixture of academic pages and personal blogs. It contains many pieces of old writing: reflections on books, fieldwork diaries, notes on data processing and coding, and many scattered thoughts from different stages of my student life.
-
-<br>
-
-Looking back now, the website feels almost like a time capsule of my years as a student. Some posts feel immature, some feel nostalgic, and some still reflect thoughts I continue to carry with me today.
+My old personal site was created when I had just started my master’s degree. One of our courses required us to build a personal academic website, and that assignment unexpectedly became something I continued to maintain for many years afterward. Over time, the website gradually turned into a mixture of academic pages and personal blogs. It contains many pieces of old writing: reflections on books, fieldwork diaries, notes on data processing and coding, and many scattered thoughts from different stages of my student life. Looking back now, the website feels almost like a time capsule of my years as a student. Some posts feel immature, some feel nostalgic, and some still reflect thoughts I continue to carry with me today.
 
 <br>
 
