@@ -1,5 +1,5 @@
 ---
-title: "Book Reflections | River Town by Peter Hessler"
+title: "Book Reflections: River Town by Peter Hessler"
 date: 2024-12-28
 categories:
   - Books
