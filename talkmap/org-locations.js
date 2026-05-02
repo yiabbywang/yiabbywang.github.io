@@ -25,7 +25,7 @@ var addressPoints = [
     -90.0733934
   ],
   [
-    "The relative importance of biophysical and meteorological effects on growing season surface available energy partitioning at high-altitude wetlands in Canadian Rocky Mountain<br />Global Water Futures 2021; Canada",
+    "The Relative Importance of Biophysical and Meteorological Effects on Growing Season Surface Available Energy Partitioning at High-altitude Wetlands in Canadian Rocky Mountain<br />Global Water Futures 2021; Canada",
     61.0666922,
     -107.991707
   ],
@@ -55,7 +55,7 @@ var addressPoints = [
     -106.660767
   ],
   [
-    "Effects of microforms on the evaporation of peat-bryophyte-litter column in a montane peatland in Canadian Rocky Mountain<br />Canadian Geophysical Union Student Conference 2022; Canada",
+    "Effects of Microforms on the Evaporation of Peat-bryophyte-litter Column in a Montane Peatland in Canadian Rocky Mountain<br />Canadian Geophysical Union Student Conference 2022; Canada",
     61.0666922,
     -107.991707
   ],
@@ -65,7 +65,7 @@ var addressPoints = [
     -115.5720773
   ],
   [
-    "The relative importance of biophysical and meteorological effects on growing season surface available energy partitioning at high-altitude wetlands in Canadian Rocky Mountain<br />Canadian Geophysical Union Research Presentation Summer Series 2021; Canada",
+    "The Relative Importance of Biophysical and Meteorological Effects on Growing Season Surface Available Energy Partitioning at High-altitude Wetlands in Canadian Rocky Mountain<br />Canadian Geophysical Union Research Presentation Summer Series 2021; Canada",
     61.0666922,
     -107.991707
   ]
