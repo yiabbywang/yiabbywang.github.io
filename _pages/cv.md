@@ -14,6 +14,11 @@ Education
 * M.S. in Environmental Sciences, University of British Columbia (Okanagan), 2018
 * B.S. in Environmental Sciences, Xiamen University, 2015
 
+Employment
+======
+* Postdoctoral Researcher, Department of Geography and Environmental
+Management,UniversityofWaterloo. (2025 to Present)
+
 Teaching Experience
 ======
 * Fall 2023: Teaching Assistant
