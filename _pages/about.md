@@ -14,6 +14,8 @@ I earned my M.Sc. in Environmental Sciences from the University of British Colum
 ---
 
 # Selected Publications
+- **Wang, Y.**, Petrone, R., & Zhang, L. (2026). *Technical note: How well do evapotranspiration partitioning approaches perform in moss-covered wetlands?*. <u>Biogeosciences</u>. https://doi.org/10.5194/bg-23-7067-2026
+  
 - **Wang, Y.**, Petrone, R., & Kompanizare, M. (2024). *Toward a unified understanding of estimating evapotranspiration: The linkage between three effective parsimonious models*. <u>Water Resources Research</u>. https://doi.org/10.1029/2023WR036910
 
 - **Wang, Y.**, Petrone, R., & Van Huizen, B. (2023). *The dependence of evaporative efficiency of vegetated surfaces on ground cover mass fractions in vegetated soils in mesic ecosystems*. <u>Hydrological Processes</u>. https://doi.org/10.1002/hyp.15036
